@@ -40,9 +40,9 @@ THEN I can save my initials and my score
 
 ## Sample Image:
 
-My project web page:
+My project web page: https://bagavathi1411.github.io/quizAppWithCounter/index.html
 
-![My Project webpage ](assets/images/)
+![My Project webpage ](assets/images/ezgif.com-gif-maker.gif)
 
 # ## License
 
